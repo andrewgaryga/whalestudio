@@ -1,0 +1,197 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-size: 10px;
+}
+.section{
+		font-size: 6em;
+		//text-align: center;
+	}
+
+.slut {
+	max-width: 75%;
+		background-color: rgba(255,255,255,0.4);
+	min-height: 100%;
+}
+
+.slut-back {
+	background: url("../img/city.jpg") no-repeat center center fixed;
+	text-align: center;
+}
+.slide {
+		//background-color: red;
+		width: 100%;
+}
+
+.beauty-text-big{
+	padding-top: 35px;
+	font-family: "Stalemate";
+	font-size: 111px; 
+	color: white;
+	letter-spacing:1px;
+	text-shadow: #E65394 1px 0px, #E65394 1px 1px, #E65394 0px 1px, #E65394 -1px 1px, #E65394 -1px 0px, #E65394 -1px -1px, #E65394 0px -1px, #E65394 1px -1px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px;
+	}
+
+.beauty-text{
+	
+	font-family: "Stalemate";
+	font-size: 50px; 
+	
+	color: white;
+
+	letter-spacing:2px;
+
+	text-shadow: #E65394 1px 0px, #E65394 1px 1px, #E65394 0px 1px, #E65394 -1px 1px, #E65394 -1px 0px, #E65394 -1px -1px, #E65394 0px -1px, #E65394 1px -1px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px, #E65394 0 0 3px;
+}
+
+.header-text{
+	margin-top: -10px;
+	 font-family: "Oswald-Light";
+	 font-size: 50px; 
+	 color: #E3A3A3;
+	 letter-spacing:1px;
+	 text-shadow: white 1px 0px, white 1px 1px, white 0px 1px, white -1px 1px, white -1px 0px, white -1px -1px, white 0px -1px, white 1px -1px, white 0 0 3px, white 0 0 3px, white 0 0 3px, white 0 0 3px, white 0 0 3px, white 0 0 3px, white 0 0 3px, white 0 0 3px;
+}
+
+.thumbnail{
+	max-width:  60%;
+	/*padding: 0px 80px;*/
+	 margin-bottom: 20px; 
+	border: none;
+	background-color: transparent;
+    margin: 0 auto;
+	min-width:40%;
+	//min-height:50%;
+	padding-top: 30px;
+}
+
+.thumbnail-whale {
+/*	height: 65px;
+	width: 65px;*/
+	width: 56px;
+margin-top: -16px;
+}
+
+.thumbnail-office {
+max-width:  100%;
+
+}
+
+.trans-white{
+	/*background-color: rgba(255,255,255,0.4);*/
+	background-color: rgba(0,0,0,0.5);
+}
+
+.navbar {
+	//background-color: orange;
+	opacity: 0.6;
+	border:none;
+}
+
+.main-text {
+	 font-family: "Oswald-Light";
+	 font-size: 40px; 
+	 color:white;
+}
+
+.main-text2 {
+	 font-family: "Oswald-Light";
+	 font-size: 40px; 
+	 color:white;
+}
+
+.form-horizontal {
+	font-size: 40px; 
+}
+
+.form-text {
+	font-size: 20px; 
+	 font-family: "Oswald-Light";
+	 color:white;
+}
+
+.carousel-indicators{
+	color: #E65394;
+}
+
+
+.caption-bottom{
+	padding-bottom: -40px;
+}
+
+.caption-top{
+	padding-top: -80px;
+}
+
+/*.fp-tableCell{
+	height: 200px !important;
+}*/
+/*
+.center {
+	text-align: center !important;
+	margin: 0 auto !important;
+}
+*/
+
+.intro p{
+			width: 50%;
+			margin: 0 auto;
+			font-size: 1.5em;
+		}
+
+.slide-control{
+	max-width: 100%;
+}
+
+.hidden{
+	display: none;
+}
+
+
+.form-background{
+		background-color: rgba(255,255,255,0.4);
+}
+
+.fp-controlArrow.fp-prev{
+left: 22px !important;
+border-width: 38.5px 31px 38.5px 0px !important;
+border-color: transparent rgba(108, 79, 79, 0.61) transparent transparent !important;
+}
+
+
+.fp-controlArrow.fp-next {
+    right: 22px !important;
+border-width: 38.5px 0px 38.5px 31px !important;
+border-color: transparent transparent transparent rgba(108, 79, 79, 0.61) !important;
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+left: 1px;
+width: 50%;
+  /* Set the fixed height of the footer here */
+  height: 70px;
+  background-color: rgba(3, 3, 3, 0.81);
+}
+
+.text-padding{
+
+	padding-top: 40px;
+}
+
+.footer .thumbnail-whale{
+	top:-20px;
+	width: 36%;
+//margin-top: -20px;
+}
+
+ul li{
+	font-size: 14px;
+}
+
+.square-control{
+max-width: 58%;
+margin-top: 5px;
+}
